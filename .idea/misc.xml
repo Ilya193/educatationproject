@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.309375" />
         <entry key="..\:/code/educatationproject/app/src/main/res/layout/activity_main.xml" value="0.135258358662614" />
         <entry key="..\:/code/educatationproject/app/src/main/res/layout/book_layout.xml" value="0.278125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/book_layout.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/fail_fullscreen.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/progress_fullscreen.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/testament.xml" value="0.21" />
       </map>
     </option>
   </component>

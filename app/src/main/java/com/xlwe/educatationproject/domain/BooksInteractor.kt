@@ -1,7 +1,7 @@
 package com.xlwe.educatationproject.domain
 
-import com.xlwe.educatationproject.data.BooksDataToDomainMapper
-import com.xlwe.educatationproject.data.BooksRepository
+import com.xlwe.educatationproject.data.books.BooksDataToDomainMapper
+import com.xlwe.educatationproject.data.books.BooksRepository
 
 interface BooksInteractor {
     suspend fun fetchBooks(): BooksDomain
